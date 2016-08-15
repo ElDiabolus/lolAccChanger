@@ -1,2 +1,2 @@
-# lolAccChanger
-League of Legends Account Changer
+# LoL Account Changer
+Der LoL Account Changer holt sich die User aus der vorhandenen user.ini und schreibt diese ins GUI. Von dort kann man sich über einen Button einloggen. Dieser holt sich zunächst den Lol Pfad aus der lolpath.ini und schließt anschließend alle Lol Prozesse und startet einen Neuen. Dort wartet der Bot, bis er den Start Button mittels PixelSearch gefunden hat und klickt drauf. Anschließend wird immer wieder nach dem Riot Logo gesucht. Wenn es gefunden wurde, werden die Userdaten eingegeben und man wird eingeloggt.
