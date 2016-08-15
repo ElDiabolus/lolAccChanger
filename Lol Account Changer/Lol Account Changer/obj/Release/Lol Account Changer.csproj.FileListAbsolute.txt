@@ -1,0 +1,20 @@
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\Lol Account Changer.exe.config
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\Lol Account Changer.exe
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\Lol Account Changer.pdb
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\RestSharp.dll
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\RiotNet.dll
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\RestSharp.xml
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\bin\Release\RiotNet.xml
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\MainWindow.g.cs
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\App.g.cs
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer_MarkupCompile.cache
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer_MarkupCompile.lref
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\MainWindow.baml
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer.g.resources
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol_Account_Changer.Properties.Resources.resources
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer.csproj.GenerateResource.Cache
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer.exe
+C:\Users\Lorenz\documents\visual studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer.pdb
+C:\Users\Lorenz\Documents\Visual Studio 2015\Projects\Lol Account Changer\Lol Account Changer\obj\Release\Lol Account Changer.csprojResolveAssemblyReference.cache
